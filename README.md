@@ -23,7 +23,7 @@ Data Processing: Efficient handling of time-series data for real-time analysis
 
 This project is not only a testament to the capabilities of neural networks in financial forecasting but also serves as a platform for further research and development in the field of AI-driven finance.
 
-Feel free to customize this description to better fit your project’s specifics or to highlight any additional features or technologies you’ve implemented. Good luck with your project! 🚀
+
 
 
 # Neural Networks in Action: The Art of Financial Forecasting
